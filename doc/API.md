@@ -18,7 +18,7 @@ in the utilities-package should be implemented here.
 JarvisAPI.say(self, text, color='', speak=True)
 ```
 
-This method give the jarvis the ability to print a text
+This method give the Jarvis the ability to print a text
 and talk when sound is enable.
 :param text: the text to print (or talk)
 :param color: for text - use colorama (https://pypi.org/project/colorama/)
